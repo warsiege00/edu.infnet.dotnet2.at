@@ -19,10 +19,17 @@ namespace InfnetMVC.Controllers
         }
 
         // GET: Funcionario
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string searchString)
         {
             var infnetDbContext = _context.Funcionarios.Include(f => f.Departamento);
+            if (!string.IsNullOrEmpty(searchString))
+            {
+                searchString = searchString.ToLower(); // ou .ToUpper()
+                var funcionarios = infnetDbContext.Where(f => f.Nome.ToLower().Contains(searchString));
+                return View(await funcionarios.ToListAsync());
+            }
             return View(await infnetDbContext.ToListAsync());
+            
         }
 
         // GET: Funcionario/Details/5

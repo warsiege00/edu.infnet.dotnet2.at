@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "swhueJ1dEzvKr4TDIsngLUvxT/NeAAp9z+VM7JRq3JgGAlaK+9XudQUhtLSWtVO0ZCAZ52k7/6Kx5PzdYQT4iA==",
+  "dgSpecHash": "wCGa0MjMDF7UTH7GZZdbEUwC2DagJFAorRo44XjPmVSDJ0V9NmUOzlUoWpY8qlUBwY8fbYrK9GqEtnOk7TLR/g==",
   "success": true,
   "projectFilePath": "/Users/matheuspiraine/dev/infnet/dotnet/at/InfnetMVC/InfnetMVC.csproj",
   "expectedPackageFiles": [
@@ -59,6 +59,7 @@
     "/Users/matheuspiraine/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.3/microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/8.0.3/microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.aspnetcore.identity.entityframeworkcore/8.0.3/microsoft.aspnetcore.identity.entityframeworkcore.8.0.3.nupkg.sha512",
+    "/Users/matheuspiraine/.nuget/packages/microsoft.aspnetcore.identity.ui/8.0.3/microsoft.aspnetcore.identity.ui.8.0.3.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.24/microsoft.aspnetcore.razor.language.6.0.24.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.bcl.asyncinterfaces/7.0.0/microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.build/17.8.3/microsoft.build.17.8.3.nupkg.sha512",
@@ -95,6 +96,8 @@
     "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.dependencymodel/8.0.0/microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.fileproviders.embedded/8.0.3/microsoft.extensions.fileproviders.embedded.8.0.3.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.identity.core/8.0.3/microsoft.extensions.identity.core.8.0.3.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.identity.stores/8.0.3/microsoft.extensions.identity.stores.8.0.3.nupkg.sha512",
     "/Users/matheuspiraine/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
